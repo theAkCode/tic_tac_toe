@@ -4,7 +4,7 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. It allo
 
 ## Features
 
-- Two-player gameplay (Player 1: X, Player 2: O)
+- Two-player gameplay (Player 1: O, Player 2: X)
 - Simple and responsive user interface
 - Clear and intuitive design
 - Highlights the winner with a victory animation
